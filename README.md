@@ -10,5 +10,5 @@ Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorith
 
 ## My implementation
 
-I have Implemented a method '#bubble_sort' that takes an array and returns a sorted array. It use the bubble sort methodology.
-I have also created a similar method called '#bubble_sort_by' which sorts an array but accepts a block. The block take two arguments which represent the two elements currently being compared.
+I have Implemented a method `#bubble_sort` that takes an array and returns a sorted array. It use the bubble sort methodology.
+I have also created a similar method called `#bubble_sort_by` which sorts an array but accepts a block. The block take two arguments which represent the two elements currently being compared.
